@@ -2,7 +2,7 @@
 //Translated from the Python versions in storm-analysis/sa_library and 
 //based on sample IJ reader/writer plugins by Albert Cardona at 
 //http://albert.rierol.net/imagej_programming_tutorials.html.
-//Evan Heller, 10/2015 
+//Evan Heller, 10/2015
 
 import java.io.*;  
 import ij.*;  
